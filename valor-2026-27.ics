@@ -1,0 +1,344 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KashCal//Valor South Austin 2026-27 School Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+NAME:Valor South Austin 2026-27
+X-WR-CALNAME:Valor South Austin 2026-27
+X-WR-CALDESC:Student calendar for Valor South Austin 2026-27. Updates automatically when the school changes the schedule. Subject to change; check the campus webpage for the most current information. Powered by KashCal, kashcal.onekash.org.
+URL:https://vsa-cal.github.io/valor-2026-27.ics
+SOURCE;VALUE=URI:https://vsa-cal.github.io/valor-2026-27.ics
+COLOR:#1C3358
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:valor-2026-27-first-day@vsa-cal.github.io
+DTSTAMP:20260601T000000Z
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+SUMMARY:First Day of School (Q1 begins)
+DESCRIPTION:First day of the 2026-27 school year. Quarter 1 grading period begins.
+COLOR:#4BA938
+CATEGORIES:Begin Semester,Grading Period
+END:VEVENT
+BEGIN:VEVENT
+UID:valor-2026-27-early-release-2026-09-04@vsa-cal.github.io
+DTSTAMP:20260601T000000Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:Early Release Day (K-12)
+DESCRIPTION:Early dismissal. K-5 dismiss at 12:35pm. 6-12 dismiss at 1:00pm.
+COLOR:#6891C1
+CATEGORIES:Early Release
+END:VEVENT
+BEGIN:VEVENT
+UID:valor-2026-27-labor-day@vsa-cal.github.io
+DTSTAMP:20260601T000000Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:Student Holiday (Labor Day)
+DESCRIPTION:No school.
+COLOR:#1C3358
+CATEGORIES:Student Holiday
+END:VEVENT
+BEGIN:VEVENT
+UID:valor-2026-27-early-release-2026-09-18@vsa-cal.github.io
+DTSTAMP:20260601T000000Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:Early Release Day (K-12)
+DESCRIPTION:Early dismissal. K-5 dismiss at 12:35pm. 6-12 dismiss at 1:00pm.
+COLOR:#6891C1
+CATEGORIES:Early Release
+END:VEVENT
+BEGIN:VEVENT
+UID:valor-2026-27-early-release-2026-10-02@vsa-cal.github.io
+DTSTAMP:20260601T000000Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Early Release Day (K-12)
+DESCRIPTION:Early dismissal. K-5 dismiss at 12:35pm. 6-12 dismiss at 1:00pm.
+COLOR:#6891C1
+CATEGORIES:Early Release
+END:VEVENT
+BEGIN:VEVENT
+UID:valor-2026-27-q1-end@vsa-cal.github.io
+DTSTAMP:20260601T000000Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:End of Q1 Grading Period
+DESCRIPTION:Last day of the first quarter grading period.
+COLOR:#808080
+CATEGORIES:Grading Period
+END:VEVENT
+BEGIN:VEVENT
+UID:valor-2026-27-student-holiday-2026-10-09@vsa-cal.github.io
+DTSTAMP:20260601T000000Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Student Holiday
+DESCRIPTION:No school.
+COLOR:#1C3358
+CATEGORIES:Student Holiday
+END:VEVENT
+BEGIN:VEVENT
+UID:valor-2026-27-parent-teacher-conferences@vsa-cal.github.io
+DTSTAMP:20260601T000000Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261014
+SUMMARY:Parent/Teacher Conferences (Student Holiday)
+DESCRIPTION:Parent/Teacher Conferences. No school for students on Oct 12-13.
+COLOR:#D25031
+CATEGORIES:Parent/Teacher Conferences,Student Holiday
+END:VEVENT
+BEGIN:VEVENT
+UID:valor-2026-27-q2-begin@vsa-cal.github.io
+DTSTAMP:20260601T000000Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:Q2 Grading Period Begins
+DESCRIPTION:Second quarter grading period starts.
+COLOR:#808080
+CATEGORIES:Grading Period
+END:VEVENT
+BEGIN:VEVENT
+UID:valor-2026-27-student-holiday-2026-10-30@vsa-cal.github.io
+DTSTAMP:20260601T000000Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Student Holiday
+DESCRIPTION:No school.
+COLOR:#1C3358
+CATEGORIES:Student Holiday
+END:VEVENT
+BEGIN:VEVENT
+UID:valor-2026-27-early-release-2026-11-13@vsa-cal.github.io
+DTSTAMP:20260601T000000Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Early Release Day (K-12)
+DESCRIPTION:Early dismissal. K-5 dismiss at 12:35pm. 6-12 dismiss at 1:00pm.
+COLOR:#6891C1
+CATEGORIES:Early Release
+END:VEVENT
+BEGIN:VEVENT
+UID:valor-2026-27-early-release-2026-11-20@vsa-cal.github.io
+DTSTAMP:20260601T000000Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Early Release Day (K-12)
+DESCRIPTION:Early dismissal. K-5 dismiss at 12:35pm. 6-12 dismiss at 1:00pm.
+COLOR:#6891C1
+CATEGORIES:Early Release
+END:VEVENT
+BEGIN:VEVENT
+UID:valor-2026-27-thanksgiving-break@vsa-cal.github.io
+DTSTAMP:20260601T000000Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261128
+SUMMARY:Thanksgiving Break (Student Holiday)
+DESCRIPTION:No school all week. School resumes Monday Nov 30.
+COLOR:#1C3358
+CATEGORIES:Student Holiday,Thanksgiving Break
+END:VEVENT
+BEGIN:VEVENT
+UID:valor-2026-27-early-release-2026-12-11@vsa-cal.github.io
+DTSTAMP:20260601T000000Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Early Release Day (K-12)
+DESCRIPTION:Early dismissal. K-5 dismiss at 12:35pm. 6-12 dismiss at 1:00pm.
+COLOR:#6891C1
+CATEGORIES:Early Release
+END:VEVENT
+BEGIN:VEVENT
+UID:valor-2026-27-early-release-2026-12-18@vsa-cal.github.io
+DTSTAMP:20260601T000000Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:Early Release Day (Last Day Before Winter Break)
+DESCRIPTION:Early dismissal. K-5 dismiss at 12:35pm. 6-12 dismiss at 1:00pm. End of Q2 grading period.
+COLOR:#6891C1
+CATEGORIES:Early Release,Grading Period
+END:VEVENT
+BEGIN:VEVENT
+UID:valor-2026-27-winter-break@vsa-cal.github.io
+DTSTAMP:20260601T000000Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20270105
+SUMMARY:Winter Break (Student Holiday)
+DESCRIPTION:Winter Break. School resumes Tuesday Jan 5 with Q3 (Begin Semester).
+COLOR:#1C3358
+CATEGORIES:Student Holiday,Winter Break
+END:VEVENT
+BEGIN:VEVENT
+UID:valor-2026-27-q3-begin@vsa-cal.github.io
+DTSTAMP:20260601T000000Z
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+SUMMARY:First Day of Spring Semester (Q3 begins)
+DESCRIPTION:School resumes after Winter Break. Quarter 3 grading period begins.
+COLOR:#4BA938
+CATEGORIES:Begin Semester,Grading Period
+END:VEVENT
+BEGIN:VEVENT
+UID:valor-2026-27-early-release-2027-01-15@vsa-cal.github.io
+DTSTAMP:20260601T000000Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:Early Release Day (K-12)
+DESCRIPTION:Early dismissal. K-5 dismiss at 12:35pm. 6-12 dismiss at 1:00pm.
+COLOR:#6891C1
+CATEGORIES:Early Release
+END:VEVENT
+BEGIN:VEVENT
+UID:valor-2026-27-mlk-day@vsa-cal.github.io
+DTSTAMP:20260601T000000Z
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+SUMMARY:Student Holiday (MLK Day)
+DESCRIPTION:No school. Martin Luther King Jr. Day.
+COLOR:#1C3358
+CATEGORIES:Student Holiday
+END:VEVENT
+BEGIN:VEVENT
+UID:valor-2026-27-student-holiday-2027-02-05@vsa-cal.github.io
+DTSTAMP:20260601T000000Z
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+SUMMARY:Student Holiday
+DESCRIPTION:No school.
+COLOR:#1C3358
+CATEGORIES:Student Holiday
+END:VEVENT
+BEGIN:VEVENT
+UID:valor-2026-27-presidents-day@vsa-cal.github.io
+DTSTAMP:20260601T000000Z
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270216
+SUMMARY:Student Holiday (Presidents Day, Bad Weather Makeup)
+DESCRIPTION:No school. Presidents Day. Reserved as a Bad Weather Makeup Day if needed earlier in the year.
+COLOR:#1C3358
+CATEGORIES:Student Holiday,Bad Weather Makeup
+END:VEVENT
+BEGIN:VEVENT
+UID:valor-2026-27-early-release-2027-02-19@vsa-cal.github.io
+DTSTAMP:20260601T000000Z
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270220
+SUMMARY:Early Release Day (K-12)
+DESCRIPTION:Early dismissal. K-5 dismiss at 12:35pm. 6-12 dismiss at 1:00pm.
+COLOR:#6891C1
+CATEGORIES:Early Release
+END:VEVENT
+BEGIN:VEVENT
+UID:valor-2026-27-early-release-2027-03-05@vsa-cal.github.io
+DTSTAMP:20260601T000000Z
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270306
+SUMMARY:Early Release Day (K-12)
+DESCRIPTION:Early dismissal. K-5 dismiss at 12:35pm. 6-12 dismiss at 1:00pm.
+COLOR:#6891C1
+CATEGORIES:Early Release
+END:VEVENT
+BEGIN:VEVENT
+UID:valor-2026-27-early-release-2027-03-12@vsa-cal.github.io
+DTSTAMP:20260601T000000Z
+DTSTART;VALUE=DATE:20270312
+DTEND;VALUE=DATE:20270313
+SUMMARY:Early Release Day (Last Day Before Spring Break)
+DESCRIPTION:Early dismissal. K-5 dismiss at 12:35pm. 6-12 dismiss at 1:00pm. End of Q3 grading period.
+COLOR:#6891C1
+CATEGORIES:Early Release,Grading Period
+END:VEVENT
+BEGIN:VEVENT
+UID:valor-2026-27-spring-break@vsa-cal.github.io
+DTSTAMP:20260601T000000Z
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270320
+SUMMARY:Spring Break (Student Holiday)
+DESCRIPTION:Spring Break. No school all week. School resumes Monday Mar 22 with Q4.
+COLOR:#1C3358
+CATEGORIES:Student Holiday,Spring Break
+END:VEVENT
+BEGIN:VEVENT
+UID:valor-2026-27-q4-begin@vsa-cal.github.io
+DTSTAMP:20260601T000000Z
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+SUMMARY:Q4 Grading Period Begins
+DESCRIPTION:Fourth quarter grading period starts.
+COLOR:#808080
+CATEGORIES:Grading Period
+END:VEVENT
+BEGIN:VEVENT
+UID:valor-2026-27-good-friday@vsa-cal.github.io
+DTSTAMP:20260601T000000Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+SUMMARY:Student Holiday (Good Friday)
+DESCRIPTION:No school. Good Friday.
+COLOR:#1C3358
+CATEGORIES:Student Holiday
+END:VEVENT
+BEGIN:VEVENT
+UID:valor-2026-27-student-holiday-2027-03-29@vsa-cal.github.io
+DTSTAMP:20260601T000000Z
+DTSTART;VALUE=DATE:20270329
+DTEND;VALUE=DATE:20270330
+SUMMARY:Student Holiday (Bad Weather Makeup)
+DESCRIPTION:No school. Reserved as a Bad Weather Makeup Day if needed earlier in the year.
+COLOR:#1C3358
+CATEGORIES:Student Holiday,Bad Weather Makeup
+END:VEVENT
+BEGIN:VEVENT
+UID:valor-2026-27-early-release-2027-04-09@vsa-cal.github.io
+DTSTAMP:20260601T000000Z
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270410
+SUMMARY:Early Release Day (K-12)
+DESCRIPTION:Early dismissal. K-5 dismiss at 12:35pm. 6-12 dismiss at 1:00pm.
+COLOR:#6891C1
+CATEGORIES:Early Release
+END:VEVENT
+BEGIN:VEVENT
+UID:valor-2026-27-early-release-2027-04-23@vsa-cal.github.io
+DTSTAMP:20260601T000000Z
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270424
+SUMMARY:Early Release Day (K-12)
+DESCRIPTION:Early dismissal. K-5 dismiss at 12:35pm. 6-12 dismiss at 1:00pm.
+COLOR:#6891C1
+CATEGORIES:Early Release
+END:VEVENT
+BEGIN:VEVENT
+UID:valor-2026-27-early-release-2027-05-07@vsa-cal.github.io
+DTSTAMP:20260601T000000Z
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270508
+SUMMARY:Early Release Day (K-12)
+DESCRIPTION:Early dismissal. K-5 dismiss at 12:35pm. 6-12 dismiss at 1:00pm.
+COLOR:#6891C1
+CATEGORIES:Early Release
+END:VEVENT
+BEGIN:VEVENT
+UID:valor-2026-27-exams-2027-05-25@vsa-cal.github.io
+DTSTAMP:20260601T000000Z
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270527
+SUMMARY:Exam Days (6-12)
+DESCRIPTION:Exam day schedule for grades 6-12.
+COLOR:#8F7BA8
+CATEGORIES:Exam Day
+END:VEVENT
+BEGIN:VEVENT
+UID:valor-2026-27-last-day@vsa-cal.github.io
+DTSTAMP:20260601T000000Z
+DTSTART;VALUE=DATE:20270527
+DTEND;VALUE=DATE:20270528
+SUMMARY:Last Day of School (Early Release, Q4 ends)
+DESCRIPTION:Last day of the 2026-27 school year. Early dismissal. K-5 dismiss at 12:35pm. 6-12 dismiss at 1:00pm. End of Q4 grading period.
+COLOR:#6891C1
+CATEGORIES:Early Release,Grading Period,Last Day
+END:VEVENT
+END:VCALENDAR
